@@ -1,0 +1,2479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"Mode",
+				"models"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"ser",
+				"serialized"
+			],
+			[
+				"AWAY",
+				"AWAYTEAM"
+			],
+			[
+				"Home",
+				"HOMETEAM"
+			],
+			[
+				"gam",
+				"gamedate"
+			],
+			[
+				"p",
+				"playerstatus"
+			],
+			[
+				"pay",
+				"player"
+			],
+			[
+				"en",
+				"game_entrys"
+			],
+			[
+				"game",
+				"gameentry"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"ga",
+				"gamedate"
+			],
+			[
+				"lco",
+				"location"
+			],
+			[
+				"aw",
+				"awayteam"
+			],
+			[
+				"P",
+				"PUT"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"sat",
+				"status"
+			],
+			[
+				"Ch",
+				"CharField"
+			],
+			[
+				"http",
+				"HTTP_200_OK"
+			],
+			[
+				"res",
+				"request"
+			],
+			[
+				"clin",
+				"client_status"
+			],
+			[
+				"ma",
+				"many"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"au",
+				"auth_headers"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Team",
+				"TeamRequest"
+			],
+			[
+				"Gema",
+				"GameEntryManager"
+			],
+			[
+				"GAM",
+				"GameEntry"
+			],
+			[
+				"Te",
+				"TeamRequestManager"
+			],
+			[
+				"team",
+				"teamname"
+			],
+			[
+				"in",
+				"IntegerField"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"Get",
+				"get_object_or_404"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Pr",
+				"Profile"
+			],
+			[
+				"cre",
+				"create_user"
+			],
+			[
+				"Pro",
+				"Profile"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"cr",
+				"create_user"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"data",
+				"DATA"
+			],
+			[
+				"s",
+				"serialized"
+			],
+			[
+				"USER",
+				"UserSerializer"
+			],
+			[
+				"cred",
+				"created"
+			],
+			[
+				"e",
+				"_errors"
+			],
+			[
+				"crea",
+				"created"
+			],
+			[
+				"G",
+				"GroupSerializer"
+			],
+			[
+				"GameEn",
+				"GameEntry"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"dat",
+				"DateTimeField"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"sport",
+				"sporttype"
+			],
+			[
+				"Modl",
+				"models"
+			],
+			[
+				"PST",
+				"POST"
+			],
+			[
+				"Ga",
+				"Game"
+			],
+			[
+				"Game",
+				"GameSerializer"
+			],
+			[
+				"aut",
+				"create_auth"
+			],
+			[
+				"Dat",
+				"DATA"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"GameEnt",
+				"GameEntrySerializer"
+			],
+			[
+				"get_",
+				"get_list_or_404"
+			],
+			[
+				"INTE",
+				"IntegerField"
+			],
+			[
+				"home",
+				"hometeam"
+			],
+			[
+				"awa",
+				"awayteam"
+			],
+			[
+				"te",
+				"teamsname"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"R",
+				"RelatedField"
+			],
+			[
+				"JS",
+				"JSONRenderer"
+			],
+			[
+				"read",
+				"RelatedField"
+			],
+			[
+				"jso",
+				"json"
+			],
+			[
+				"json",
+				"json_game"
+			],
+			[
+				"js",
+				"json_game"
+			],
+			[
+				"base",
+				"BasicAuthentication"
+			],
+			[
+				"auth",
+				"user_auth"
+			],
+			[
+				"g",
+				"game"
+			],
+			[
+				"is",
+				"IsAuthenticatedOrReadOnly"
+			],
+			[
+				"per",
+				"permission_classes"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"SERvi",
+				"SERVICE_URL"
+			],
+			[
+				"serv",
+				"SERVICE_PORT"
+			],
+			[
+				"SErvice",
+				"SERVICE_URL"
+			],
+			[
+				"l",
+				"leagueTeamsß"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"teams",
+				"team_list"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"tea",
+				"teams"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"on",
+				"OneToOneField"
+			],
+			[
+				"date",
+				"DateField"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"View",
+				"views"
+			],
+			[
+				"vie",
+				"views"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"US",
+				"UserSerializer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "status.py",
+			"settings":
+			{
+				"buffer_size": 2380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "serializers.py",
+			"settings":
+			{
+				"buffer_size": 1993,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 3051,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "admin.py",
+			"settings":
+			{
+				"buffer_size": 920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 16725,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSFTP:\n----\n\n  Sublime SFTP 1.12.0 Changelog:\n  \n  \n  Upcoming Price Increase\n  -----------------------\n  \n  Due to the increased support work and complexity of supporting Sublime Text 2\n  and Sublime Text 3, the price of the package will be increasing on Tuesday,\n  September 3rd, 2013. The current price of $16 is good until that date.\n  \n  https://wbond.net/sublime_packages/sftp/buy\n  \n  As a reminder, licenses purchased now include a year of free major version\n  upgrades. The next feature release will likely be 2.0 and include a number of\n  long-awaited enhancements.\n  \n  \n  New Features\n  ------------\n  \n   - Added \"sync_same_age\" setting to allow ignoring files that are approximately\n     the same age\n  \n   - Added verification that the correct version of the package is installed\n     for the current OS. See https://sublime.wbond.net/docs/syncing for more\n     details.\n  \n   - Added help for handling SSH keys that have insecure permissions\n  \n  \n  Bug Fixes\n  ---------\n  \n   - Fixed FTPS support on ST3\n  \n   - Fixed a bug with Diff Remote File\n  \n   - Fixed occasional bug with printing the debug log to a file\n  \n   - Added code to handle situations when the \"color_scheme\" setting is not set\n  \n   - Added handling of FTP \"550 Requested action not taken\" errors\n  \n",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 7002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# -*- coding: utf-8 -*-\n'''\nTitle: Teammate models\n\nCreated on 2013. 7. 12.\n\n@author: jun-yongbag\n'''\nfrom django.db import models\nfrom django.contrib.auth.models import User, Group\nfrom django.conf import settings\nfrom datetime import datetime\nGAME_CHOICES = ((0,'HOMETEAM'),\n                (1,'AWAYTEAM')\n                )\nPLAYER_STATUS = ((0,'NO_ANSWER'),\n                (1,'YES'),\n                (2,'NO'),\n                (3,'HOLD'),\n                )\nREQUEST_STATUS = ((0,'NO_ANSWER'),\n                (1,'YES'),\n                (2,'NO'),\n                (3,'HOLD'),\n                )\n\nclass SportType(models.Model):\n    name = models.CharField(max_length=254, unique=True)\n    owner = models.ForeignKey(User)\n    created = models.DateTimeField(auto_now_add=True)\n    def __unicode__(self):\n        return self.name\n\nclass LeagueManager(models.Manager):\n    def create_league(self, name, sporttype, creator, **extra_fields):\n        if not name:\n            raise ValueError('The given username must be set')\n        sport = SportType.objects.get(id = sporttype)\n        created = datetime.datetime.today()\n        user = User.objects.get(id = creator)\n        league = self.model(name=name, sporttype=sport,\n                            creator = user,created = created , **extra_fields)\n        league.save(using=self._db)\n        return league\n\nclass League(models.Model):\n    name = models.CharField(max_length=254, unique=True)\n    sporttype = models.ForeignKey(SportType)\n    creator = models.ForeignKey(User)\n    created = models.DateTimeField(auto_now_add=True)\n    objects = LeagueManager()\n\n    def __unicode__(self):\n        return self.name\n\n# \n#     \n# \n\nclass TeamManager(models.Manager):\n    def create_team(self, name,location,league, owner, **extra_fields):   \n        if not name:\n            raise ValueError('The given teamname must be set')\n        user = User.objects.get(id = owner)\n        league = League.objects.get(id = league)\n        team = self.model(name=name, location = location,league = league,owner = user, **extra_fields)\n        print team\n        team.save(using=self._db)\n        return team\n\n    def update_team(self, id, name,location,league,owner,  **extra_fields):\n        \"\"\"\n        Team 업데이트\n        \"\"\"\n        # u = User.objects.get(username = username)  \n        team = Team.objects.get(id=id)\n        user = User.objects.get(id = owner)\n        league = League.objects.get(id = league)  \n        if not game:\n            raise ValueError('The given game must be set')\n        # profile.user = u\n        team.name = name\n        team.location = location\n        team.league = league\n        team.owner = user\n        \n        print team\n        team.save(using=self._db)\n        return team\n\n\n\n\nclass Team(models.Model):\n    name = models.CharField(max_length=254, unique=True)\n    location = models.CharField(max_length=254,blank=True,)\n    league = models.ForeignKey(League, blank=True, null=True)\n    sporttype= models.ForeignKey(SportType, blank=True, null=True)\n    owner = models.ForeignKey(User)\n    created = models.DateTimeField(auto_now_add=True)\n    objects = TeamManager() \n    def __unicode__(self):\n        return self.name\n# \n# \n\nclass GameManager(models.Manager):\n    def create_game(self, name,hometeam, awayteam,location,gamedate,owner, **extra_fields):\n        #print name,sporttype,owner  \n        \"\"\"\n        Creates and saves a User with the given username, email and password.\n        \"\"\"\n        if not name:\n            raise ValueError('The given username must be set')\n                \n        user = User.objects.get(id = owner)  \n        game = self.model(name=name, hometeam = hometeam,awayteam = awayteam ,location = location,gamedate = gamedate,owner = user, **extra_fields)\n        print game\n        game.save(using=self._db)\n        return game\n\n\n    def update_game(self, id, name,hometeam,awayteam,location,gamedate,owner,  **extra_fields):\n        \"\"\"\n        Game 업데이트\n        \"\"\"\n        # u = User.objects.get(username = username)  \n        game = Game.objects.get(id=id)\n        user = User.objects.get(id = owner)   \n        if not game:\n            raise ValueError('The given game must be set')\n        # profile.user = u\n        game.name = name\n        game.hometeam = hometeam\n        game.awayteam = awayteam\n        game.location = location\n        game.gamedate = gamedate\n        game.owner = user\n        \n        print game\n        game.save(using=self._db)\n        return game\n\n    def del_game(self,id):\n        \"\"\"\n        Game 삭\n        \"\"\"\n        pass\n\n\n\nclass Game(models.Model):\n    name = models.CharField(max_length=254)\n    hometeam = models.CharField(max_length=254)\n    awayteam = models.CharField(max_length=254)\n    location = models.CharField(max_length=254)\n    gamedate = models.DateTimeField()\n    owner  = models.ForeignKey(User)\n    created = models.DateTimeField(auto_now_add=True,)\n\n    objects = GameManager() \n\n#      \n    def __unicode__(self):\n            return 'ID: %s ㅖ`NAME:%s HOMETEAM: %s VS  AWAYTEAM: %s DateTime: %s'%(\n                          self.id,    \n                          self.name,\n                          self.hometeam,\n                          self.awayteam,\n                          self.gamedate\n                          )\n    def save(self, *args, **kwargs):\n        ''' On save, update timestamps '''\n        return super(Game, self).save(*args, **kwargs)\n\nclass TeamRequestManager(models.Manager):\n    def requset_TeamRequest(self,user,team, **extra_fields):\n        \"\"\"\n        Creates and saves a User with the given username, email and password.\n        \"\"\"\n        if not user:\n            raise ValueError('The given username must be set')\n                \n        user = User.objects.get(id = user.id)  \n        team = Team.objects.get(id = team.id)\n\n        getreguest = self.model( user = user,team = team , **extra_fields)\n        getrequset.save(using=self._db)\n        return True\n\n    def answer_TeamRequest(self,teamrequest,state, **extra_fields):\n        if not teamrequest:\n            raise ValueError('The given request must be set')\n        getreguest = TeamRequest.objects.get(id = teamrequest.id)\n        getreguest = self.model(getreguest, state = state, **extra_fields)\n        getreguest.save(using=self._db)\n        return True\n\n\nclass TeamRequest(models.Model):\n    team = models.ForeignKey(Team)\n    user = models.ForeignKey(User)\n    state = models.IntegerField(choices=REQUEST_STATUS,default=0)\n    requestdate = models.DateTimeField(auto_now = True)\n    created = models.DateTimeField(auto_now_add=True)\n    objects = TeamRequestManager()\n    def __unicode__(self):\n            return '%s, %s , %s , %s ,%s '%(\n                          self.team.name,  \n                          self.user.username,\n                          self.state,\n                          self.requestdate,\n                          self.created\n                          )\n    def save(self, *args, **kwargs):\n        ''' On save, update timestamps '''\n        return super(TeamRequest, self).save(*args, **kwargs)\n\n\n\nclass UserRequestManager(models.Manager):\n    def requset_UserRequest(self,user,team, **extra_fields):\n        \"\"\"\n        Creates and saves a User with the given username, email and password.\n        \"\"\"\n        if not user:\n            raise ValueError('The given username must be set')\n                \n        user = User.objects.get(id = user.id)  \n        team = Team.objects.get(id = team.id)\n        getreguest = self.model( user = user,team = team ,**extra_fields)\n        getreguest.save(using=self._db)\n        return True\n\n        \n    def answer_UserRequest(self,userrequest,state, **extra_fields):\n        #print name,sporttype,owner  \n        \"\"\"\n        Creates and saves a User with the given username, email and password.\n        \"\"\"\n        if not userrequest:\n            raise ValueError('The given username must be set')\n        userrequest = UserRequest.objects.get(id = userrequest.id)\n        getreguest = self.model(userrequest, state = state, **extra_fields)\n        getreguest.save(using=self._db)\n        return True\n\nclass UserRequest(models.Model):\n    team = models.ForeignKey(Team)\n    user = models.ForeignKey(User)\n    state = models.IntegerField(choices=REQUEST_STATUS,default=0)\n    requestdate = models.DateTimeField(auto_now = True)\n    created = models.DateTimeField(auto_now_add=True)\n    objects = UserRequestManager()\n\n    def __unicode__(self):\n            return '%s, %s , %s , %s ,%s '%(\n                          self.team.name,  \n                          self.user.username,\n                          self.state,\n                          self.requestdate,\n                          self.created,\n                          )\n    def save(self, *args, **kwargs):\n        ''' On save, update timestamps '''\n        return super(UserRequest, self).save(*args, **kwargs)\n\n    \n#     \nclass TeamMembership(models.Model):\n    team = models.ForeignKey(Team,related_name='TeamMembership_Team_set')\n    user = models.ForeignKey(User ,related_name='TeamMembership_User_set')\n    created = models.DateTimeField(auto_now_add=True)\n    date_joined = models.DateTimeField(auto_now_add=True)\n      \n    def __unicode__(self):\n        return '%s, %s' %(\n                          self.user.username,\n                          self.team.name,\n                          )\n    class Meta:\n        unique_together = (('team', 'user'))\n# \n\n\n\n\nclass LeagueMembership(models.Model):\n    league = models.ForeignKey(League,related_name='LeagueMembership_League_set')\n    team = models.ForeignKey(Team,related_name='LeagueMembership_Team_set')\n    date_joined = models.DateTimeField()\n     \n    def __unicode__(self):\n        return '%s, %s' %(\n                          self.league.name,\n                          self.team.name,)\n\n\n\nclass GameEntryManager(models.Manager):\n    def add_game_entry(self, game,team,player,playerstatus, **extra_fields):\n       \n        if not game:\n            raise ValueError('The given game must be set')\n        user = User.objects.get(id = player)     \n        game = Game.objects.get(id = game)\n        gameentry = self.model(game=game, team = team,gamedate=game.gamedate,\n                            player = user,playerstatus = playerstatus , **extra_fields)\n\n        print gameentry\n        gameentry.save(using=self._db)\n        return gameentry\n\n    def update_game_entry(self, entry_id,game,team,player,playerstatus, **extra_fields):\n        if not player:\n            raise ValueError('The given game must be set')\n\n        game = Game.objects.get(id = game)\n        player = User.objects.get(id=player)\n\n        entry = GameEntry.objects.get(id = entry_id)     \n        entry.game = game\n        entry.team = team\n        entry.player = player\n        entry.playerstatus = playerstatus\n        \n        print entry\n        entry.save(using=self._db)\n        return entry\n\n    def del_game_entry(self,gameentry_id):\n        pass\n\n\nclass GameEntry(models.Model):\n    game = models.ForeignKey(Game,related_name='GameMembership_Game_set')\n    team = models.CharField(max_length=254)\n    gamedate = models.DateTimeField()\n    player = models.ForeignKey(User,related_name='GameMembership_User_set')\n    created = models.DateTimeField(auto_now_add=True)\n    playerstatus = models.IntegerField(choices=PLAYER_STATUS,default=0)\n\n    objects = GameEntryManager()\n# home or away\n    def __unicode__(self):\n         return '%s, %s, %s, %s' %(\n        self.game.id,\n        self.team,\n        self.player.username,\n        self.playerstatus,\n    )\n\n\nclass ProfileManager(models.Manager):\n    def create_profile(self, user, **extra_fields):\n        #print name,sporttype,creator  \n        \"\"\"\n        사용자 프로필 생\n        \"\"\"\n        \n        if not user:\n            raise ValueError('The given game must be set')\n        user = User.objects.get(username = user)     \n       \n        profile = self.model(user = user ,**extra_fields)\n        print profile\n        profile.save(using=self._db)\n        return profile\n\n\n    def update_profile(self, id, number,nick,hand,foot,is_staff,  **extra_fields):\n        #print name,sporttype,creator  \n        \"\"\"\n        사용자 프로필 업데이트\n        \"\"\"\n        # u = User.objects.get(username = username)  \n        profile = Profile.objects.get(id=id)   \n        if not profile:\n            raise ValueError('The given game must be set')\n        # profile.user = u\n        profile.number = number\n        profile.nick = nick\n        profile.hand = hand\n        profile.foot = foot\n        profile.is_staff = is_staff\n        \n        print profile\n        profile.save(using=self._db)\n        return profile\n\n\n \nclass Profile(models.Model):\n    class Meta:\n        verbose_name = u'프로필'\n        verbose_name_plural = u'프로필'\n    user = models.ForeignKey(User, unique=True)\n    number = models.IntegerField(verbose_name=u'번호',null =True)\n    nick = models.CharField(verbose_name=u'별명', max_length=50, blank=True,null = True)\n    hand = models.CharField(verbose_name=u'주손', max_length=20, blank=True,null = True)\n    foot = models.CharField(verbose_name=u'주발', max_length=20, blank=True,null = True)\n    created = models.DateTimeField(auto_now_add=True)\n    is_staff = models.BooleanField(default=False)\n\n    objects = ProfileManager()\n\n    def __unicode__(self):\n        return '%s, %s, %s' %(\n        self.user.username,\n        self.number,\n        self.nick,\n    )\n\n\n \n\n\n\n",
+			"file": "models.py",
+			"file_size": 13531,
+			"file_write_time": 1377060326000000,
+			"settings":
+			{
+				"buffer_size": 13453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# -*- coding: utf-8 -*-\n# from django.test.client import Client\n\nfrom django.test import TestCase\nfrom selenium import webdriver\nfrom django.test import LiveServerTestCase\nfrom teammate.models import Profile\nfrom django.contrib.auth.models import User\nimport base64\n# from rest_framework.compat import RequestFactory\n# from django.utils import unittest\nfrom django.test.client import RequestFactory\nfrom django.core.urlresolvers import reverse\nfrom rest_framework import status\nfrom rest_framework.test import APITestCase ,APIClient ,APIRequestFactory\nfrom teammate.views import users\n\n\n\n\nclass test_users_url(APITestCase):\n	def setUp(self):\n		self.factory = APIRequestFactory()\n		self.client = APIClient()\n		\n		# request = factory.post('/notes/', {'title': 'new idea'})\n\n	def test_users_view(self):\n		user = User.objects.get(username='admin')\n\n		request = self.factory.get('/users/')\n		view = views.users()\n		request.user = user\n\n		response = view(request)\n\n	def test_users_detile_view(self):\n		# self.client.login(username='admin', password='2121')\n		# response = self.client.get('/users/1/')\n		# self.assertEqual(response.status_code,'200')\n		pass\n",
+			"file": "tests.py",
+			"file_size": 1150,
+			"file_write_time": 1376826111000000,
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "response.py",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 383.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"put",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"sub",
+				"SublimePTY"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/tests.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/DataClass.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/test.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/serializers.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/teammate.sublime-workspace",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/permissions.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/views.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/teammate.sublime-project",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/status.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/json_objects/json_game.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/manage.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/DataClass",
+		"/Users/jun-yongbag/Source/Django-gcm/example/gcmserver/app/resources.py",
+		"/Users/jun-yongbag/Source/Django-gcm/example/gcmserver/app/forms.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/urls.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/resources.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/teammate/settings.py",
+		"/Users/jun-yongbag/TeamMateRepo/teammate/Test_App/JsonTestApp.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Profile",
+			"print",
+			"Game",
+			"if",
+			"requesttime",
+			"\n",
+			"),\n",
+			"serialized",
+			"'])\n",
+			"g",
+			"user",
+			"teamMemberships",
+			"teams",
+			"teammate",
+			"game",
+			"client_id",
+			"url"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "status.py",
+					"settings":
+					{
+						"buffer_size": 2380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 121.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "serializers.py",
+					"settings":
+					{
+						"buffer_size": 1993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "urls.py",
+					"settings":
+					{
+						"buffer_size": 3051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								512
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "admin.py",
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								384
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.87625,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "views.py",
+					"settings":
+					{
+						"buffer_size": 16725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1329,
+								1329
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 388.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1337,
+								1337
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "settings.py",
+					"settings":
+					{
+						"buffer_size": 7002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4707,
+								4707
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1473.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "models.py",
+					"settings":
+					{
+						"buffer_size": 13453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5010,
+								5010
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 3.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "tests.py",
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								676
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "response.py",
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1190,
+								1190
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.412003258561,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.336897791957,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jun-yongbag/djangorestframework__sample/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
